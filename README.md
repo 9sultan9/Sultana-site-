@@ -30,3 +30,42 @@ Sultana
   </footer>
 </body>
 </html>
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fffaf5;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  direction: rtl;
+}
+
+header {
+  background-color: #f2dcdc;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin-bottom: 10px;
+  color: #703c3c;
+}
+
+nav a {
+  margin: 0 10px;
+  color: #703c3c;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.welcome {
+  padding: 40px;
+  text-align: center;
+}
+
+footer {
+  background-color: #f8e8e8;
+  text-align: center;
+  padding: 10px;
+  color: #777;
+}
